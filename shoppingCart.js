@@ -1,3 +1,17 @@
+// # Shopping Cart Mini Project
+
+// A basic JavaScript project that simulates a shopping cart system.
+
+// ## Concepts Practiced
+//   - Arrow functions
+//     - Array methods: forEach, map, filter, find, reduce, toSorted
+//       - Stock control logic
+//         - Cart management logic
+
+// ⚔️ MADE BY THORFIN — CODE LIKE A WARRIOR ⚔️
+
+
+
 // ⚔️⚔️⚔️ MADE BY THORFIN — CODE LIKE A WARRIOR ⚔️⚔️⚔️
 //PART-1
 const products = [
